@@ -3,9 +3,9 @@ PyOtherSide is a plugin that enables communication between Qt (QML) and Python. 
 
 ## Features
 * [Hello World](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/01_HelloWorld)
-* [Integrate with ArcPy](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/02_IntegrateWithArcPy)
-* [Elevation profile with matplotlib](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/03_ElevationProfile)
-* [Excel to Feature Service](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/04_ExcelToFeatureService)
+* [Integrate with ArcPy & ArcGIS Runtime](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/02_IntegrateWithArcPy)
+* [Elevation profile with matplotlib & ArcGIS Runtime](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/03_ElevationProfile)
+* [Excel to Feature Service with ArcGIS Runtime](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/04_ExcelToFeatureService)
 
 ## Instructions
 
