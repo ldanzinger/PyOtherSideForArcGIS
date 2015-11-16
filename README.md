@@ -2,6 +2,10 @@
 PyOtherSide is a plugin that enables communication between Qt (QML) and Python. Python functions can be called from QML, and information can be pushed back to QML from Python. QML is a very easy to use language for creating user interfaces, and Python is pervasive throughout the ArcGIS Platform. With that, Esri provides a QML API through the ArcGIS Runtime SDK for Qt. This is a collection of proof of concept examples for integrating Qt and Python with the ArcGIS Platform.
 
 ## Features
+* [Hello World](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/01_HelloWorld)
+* [Integrate with ArcPy](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/02_IntegrateWithArcPy)
+* [Elevation profile with matplotlib](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/03_ElevationProfile)
+* [Excel to Feature Service](https://github.com/ldanzinger/PyOtherSideForArcGIS/tree/master/04_ExcelToFeatureService)
 
 ## Instructions
 
