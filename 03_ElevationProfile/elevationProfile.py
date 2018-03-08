@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
-# pass in qobject derived polyline
-def plot_chart(polyline):
-    geom = polyline.geometry.json
+# pass in qobject derived feature
+def plot_chart(feature):
+    geom = feature.geometry.json
     elevationList = []
     # loop through the vertices and add z-values to list
     paths = geom['paths'][0]
